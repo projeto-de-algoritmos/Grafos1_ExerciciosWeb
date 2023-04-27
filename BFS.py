@@ -36,9 +36,5 @@ if __name__ == '__main__':
     g.addEdge(2, 0)
     g.addEdge(2, 3)
     g.addEdge(3, 3)
- 
-    print("Following is Breadth First Traversal"
-          " (starting from vertex 2)")
+
     g.BFS(2)
- 
-# This code is contributed by Neelam Yadav
