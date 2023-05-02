@@ -16,14 +16,16 @@ Retorna o número total de províncias.
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/12/24/graph1.jpg)
 
 
-#
-Entrada: isConnected = [[1,1,0],[1,1,0],[0,0,1]]
-Saída: 2
 
+Entrada: isConnected = [[1,1,0],[1,1,0],[0,0,1]]
+
+Saída: 2
+#
 *Exemplo 2:*
 
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/12/24/graph2.jpg)
 
 
 Entrada: isConnected = [[1,0,0],[0,1,0],[0,0,1]]
+
 Saída: 3
