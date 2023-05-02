@@ -21,3 +21,8 @@ Escolhemos diversos exercicios da disciplina e da Web para exercutamos esse trab
 **Framework**: (caso exista)<br>
 na pasta do exercicio digite python3 (NomeDoExercicio)
 Ex: python3 BFS.py
+
+## Apresentação
+[Video](./Apresentacao/General-20230501_231220-Meeting%20Recording.mp4)
+
+[Video Youtube](https://www.youtube.com/watch?v=LTGubUaxNro&ab_channel=VITORCARNEIRO)
