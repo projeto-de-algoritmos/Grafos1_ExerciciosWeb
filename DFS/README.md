@@ -1,4 +1,4 @@
-Depth first Search ou Depth first traversal é um algoritmo recursivo para pesquisar todos os vértices de um grafo ou estrutura de dados em árvore. Traversal significa visitar todos os nós de um grafo.
+Depth first Search ou Busca em Profundidade é um algoritmo recursivo para pesquisar todos os vértices de um grafo ou estrutura de dados em árvore. Traversal significa visitar todos os nós de um grafo.
 
 # Exemplo
 
