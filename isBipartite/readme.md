@@ -18,6 +18,7 @@ Retorna verdadeiro se e somente se for bipartido.
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/10/21/bi2.jpg)
 
 Entrada: graph = [[1,2,3],[0,2],[0,1,3],[0,2]]
+
 Saida: false
 
 Explicação: Não há como particionar os nós em dois conjuntos independentes de forma que cada aresta conecte um nó em um e um nó no outro.
@@ -28,5 +29,7 @@ Example 2:
 ![App Screenshot](https://assets.leetcode.com/uploads/2020/10/21/bi1.jpg)
 
 Entrada: graph = [[1,3],[0,2],[1,3],[0,2]]
+
 Saida: true
-Explanation: We can partition the nodes into two sets: {0, 2} and {1, 3}.
+
+Explicação: Podemos particionar os nós em dois conjuntos: {0, 2} and {1, 3}.
