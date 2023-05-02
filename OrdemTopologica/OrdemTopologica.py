@@ -1,5 +1,6 @@
 from collections import deque
-import pytest
+
+
 def ordenacao_topologica(grafo):
     # calcular grau de entrada para cada vértice
     grau_entrada = {v: 0 for v in grafo}
