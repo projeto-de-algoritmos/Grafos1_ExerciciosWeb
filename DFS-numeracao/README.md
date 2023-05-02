@@ -7,10 +7,10 @@ Entrada:
 ![App Screenshot](./assets/grafo.png)
 
 Saida:
-Nó: 2 Numerado como: 1
-Nó: 4 Numerado como: 2
-Nó: 5 Numerado como: 3
-Nó: 7 Numerado como: 4
-Nó: 3 Numerado como: 5
-Nó: 6 Numerado como: 6
-Nó: 1 Numerado como: 7
+- Nó: 2 Numerado como: 1
+- Nó: 4 Numerado como: 2
+- Nó: 5 Numerado como: 3
+- Nó: 7 Numerado como: 4
+- Nó: 3 Numerado como: 5
+- Nó: 6 Numerado como: 6
+- Nó: 1 Numerado como: 7
